@@ -14,6 +14,8 @@
 		3A2CE4191F50A60C0056DCCB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A2CE4171F50A60C0056DCCB /* LaunchScreen.storyboard */; };
 		3A2CE4241F50A60C0056DCCB /* TipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CE4231F50A60C0056DCCB /* TipperTests.swift */; };
 		3A2CE42F1F50A60C0056DCCB /* TipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CE42E1F50A60C0056DCCB /* TipperUITests.swift */; };
+		3A2CE43D1F50C9730056DCCB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CE43C1F50C9730056DCCB /* SettingsViewController.swift */; };
+		3A2CE43F1F5101EC0056DCCB /* UIViewUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CE43E1F5101EC0056DCCB /* UIViewUtils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3A2CE42A1F50A60C0056DCCB /* TipperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A2CE42E1F50A60C0056DCCB /* TipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipperUITests.swift; sourceTree = "<group>"; };
 		3A2CE4301F50A60D0056DCCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A2CE43C1F50C9730056DCCB /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3A2CE43E1F5101EC0056DCCB /* UIViewUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewUtils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +101,14 @@
 		3A2CE40D1F50A60C0056DCCB /* Tipper */ = {
 			isa = PBXGroup;
 			children = (
+				3A2CE43C1F50C9730056DCCB /* SettingsViewController.swift */,
 				3A2CE40E1F50A60C0056DCCB /* AppDelegate.swift */,
 				3A2CE4101F50A60C0056DCCB /* ViewController.swift */,
 				3A2CE4121F50A60C0056DCCB /* Main.storyboard */,
 				3A2CE4151F50A60C0056DCCB /* Assets.xcassets */,
 				3A2CE4171F50A60C0056DCCB /* LaunchScreen.storyboard */,
 				3A2CE41A1F50A60C0056DCCB /* Info.plist */,
+				3A2CE43E1F5101EC0056DCCB /* UIViewUtils.swift */,
 			);
 			path = Tipper;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 			files = (
 				3A2CE4111F50A60C0056DCCB /* ViewController.swift in Sources */,
 				3A2CE40F1F50A60C0056DCCB /* AppDelegate.swift in Sources */,
+				3A2CE43F1F5101EC0056DCCB /* UIViewUtils.swift in Sources */,
+				3A2CE43D1F50C9730056DCCB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
