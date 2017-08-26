@@ -1,13 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww28300\viewh17220\viewkind0
-\deftab720
-\pard\pardeftab720\sl280\partightenfactor0
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 # tipcalculator\
+# tipcalculator\
 Tip Calculator for codepath\
 \
 # Pre-work - Tipper\
@@ -39,7 +30,7 @@ The following **additional** features are implemented:\
 \
 Here's a walkthrough of implemented user stories:\
 \
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />\
+<img src='http://i.imgur.com/0likWuP.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />\
 \
 GIF created with [LiceCap](http://www.cockos.com/licecap/).\
 \
@@ -58,7 +49,7 @@ Question 2: "Swift uses [Automatic Reference Counting](https://developer.apple.c
 \
 ## License\
 \
-    Copyright [yyyy] [Harsha Sabbineni]\
+    Copyright [2017] [Harsha Sabbineni]\
 \
     Licensed under the Apache License, Version 2.0 (the "License");\
     you may not use this file except in compliance with the License.\
