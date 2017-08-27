@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-Video Walkthrough
-![alt text](http://i.imgur.com/eix6f9C.gifv)
+
+![Video Walkthrough](https://raw.githubusercontent.com/harshasabbineni/Tipper/blob/master/walkthrough2.gif)
 
 GIF created with [LiceCap]
 
