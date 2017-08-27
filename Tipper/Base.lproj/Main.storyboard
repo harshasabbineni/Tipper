@@ -64,17 +64,12 @@
                                     <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="valueChanged" id="9Fn-ot-JoY"/>
                                 </connections>
                             </segmentedControl>
-                            <view contentMode="scaleToFill" misplaced="YES" id="kRY-Zd-Fgf">
-                                <rect key="frame" x="55" y="231" width="262" height="6"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                            </view>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" textAlignment="natural" minimumFontSize="17" id="LD2-6b-oF0">
                                 <rect key="frame" x="215" y="110" width="102" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
+                                <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="editingChanged" id="3JN-B3-1jf"/>
                                 </connections>
@@ -96,7 +91,6 @@
                     </navigationItem>
                     <connections>
                         <outlet property="billField" destination="LD2-6b-oF0" id="Uog-F2-fss"/>
-                        <outlet property="billView" destination="i3t-sP-5Gb" id="wrM-rS-xDE"/>
                         <outlet property="tipControl" destination="gvB-2u-hu9" id="6uJ-Bw-Mym"/>
                         <outlet property="tipLabel" destination="0vD-DK-Lt4" id="aNm-89-IKI"/>
                         <outlet property="totalLabel" destination="LMP-n3-s8U" id="J0s-5s-z2p"/>
