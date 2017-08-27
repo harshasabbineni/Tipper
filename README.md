@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://raw.githubusercontent.com/harshasabbineni/Tipper/blob/master/walkthrough2.gif)
+![Video Walkthrough](https://github.com/harshasabbineni/Tipper/blob/master/walkthrough2.gif)
 
 GIF created with [LiceCap]
 
